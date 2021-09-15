@@ -1,0 +1,83 @@
+SDG_GOAL: >-
+  Goal 1: End poverty in all its forms everywhere
+SDG_TARGET: >-
+  Target 1.2: By 2030, reduce at least by half the proportion of adults and children of all ages living in poverty 
+  in all its dimensions according to national definitions
+SDG_INDICATOR: >-
+  Indicator 1.2.1: Proportion of population living below the national poverty line, by demographic characteristic  
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >- 
+  9/15/2021
+
+CONTACT_ORGANISATION: >- 
+  SANDAG
+
+CONTACT_NAME: >- 
+  Joshua Zajdel Analytics and Policy Intern
+
+CONTACT_PHONE: >- 
+  619-699-7315
+  
+CONTACT_EMAIL: >-
+  jzaj@sandag.org
+STAT_CONC_DEF: >- 
+  ## Definition:
+    The national poverty rate is the percentage of the total population living below the national poverty line.
+    The rural poverty rate is the percentage of the rural population living below the national poverty line (or
+    in cases where a separate, rural poverty line is used, the rural poverty line). Urban poverty rate is the
+    percentage of the urban population living below the national poverty line (or in cases where a separate,
+    urban poverty line is used, the urban poverty line)
+  ## Concepts:
+  **Poverty Line:** Threshold below which individuals
+  in the reference population are considered poor and above which they are
+  considered non-poor. The threshold is generally defined as the per-capita
+  monetary requirements an individual needs to afford the purchase of a basic
+  bundle of goods and services.
+  
+UNIT_MEASURE: >-
+
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  U.S Census American Community Survey 5-Year Estimates for San Diego County
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  County of San Diego
+COMPARABILITY: >-
+
+OTHER_DOC: >-
